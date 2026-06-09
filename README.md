@@ -1,2 +1,2 @@
-# java-script-t-tasks
+# java-scriptt-tasks
 Java script taks
